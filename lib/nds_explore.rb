@@ -12,7 +12,7 @@ def print_first_directors_movie_titles
   row_index = 0 
  
   while row_index < spielberg_movies.length do
-    titles = 
+    titles = spielberg_movies[row_index][:title]
 
 
 end

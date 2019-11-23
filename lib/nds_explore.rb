@@ -10,7 +10,8 @@ end
 def print_first_directors_movie_titles
   spielberg_movies = directors_database[0][:movies]
   row_index = 0 
-
+ 
+  
 
 
 end

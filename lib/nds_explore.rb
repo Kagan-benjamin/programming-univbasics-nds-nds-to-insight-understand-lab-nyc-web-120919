@@ -11,7 +11,7 @@ def print_first_directors_movie_titles
   spielberg_movies = directors_database[0][:movies]
   row_index = 0 
  
-  while row_index < directors_database.length do
+  while row_index < spielberg_movies.length do
     titles = 
 
 

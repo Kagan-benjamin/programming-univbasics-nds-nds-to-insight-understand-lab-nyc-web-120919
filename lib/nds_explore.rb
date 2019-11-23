@@ -14,6 +14,7 @@ def print_first_directors_movie_titles
   while row_index < spielberg_movies.length do
     titles = spielberg_movies[row_index][:title]
     puts titles 
+    index += 1 
 
 
 end
